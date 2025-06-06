@@ -1,0 +1,6 @@
+/yolov8n.pt
+/data/
+/GroundingDINO/
+/out_demo/
+/runs/
+/zero_shot/demo/sam/sam_vit_h_4b8939.pth
