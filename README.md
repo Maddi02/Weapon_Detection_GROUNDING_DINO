@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 Clone Grounding DINO
 ```bash
-git clone https://github.com/IDEA-Research/GroundingDINO.git external/GroundingDINO
+git clone https://github.com/IDEA-Research/GroundingDINO.git 
 ```
 
 Smoke-Test Grounding DINO
