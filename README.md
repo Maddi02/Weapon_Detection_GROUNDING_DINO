@@ -39,5 +39,6 @@ Generate YOLO labels automatically
 python zero_shot/utils/run_groundingdino_yolo.py
 ```
 Train and validate both models
-
+```bash
 python train_and_validate_models.py
+```
